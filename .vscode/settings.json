@@ -1,0 +1,30 @@
+{
+  "editor.cursorBlinking": "smooth",
+  "editor.smoothScrolling": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.minimap.enabled": false,
+  "extensions.closeExtensionDetailsOnViewChange": true,
+  "security.workspace.trust.enabled": false,
+  "telemetry.telemetryLevel": "off",
+  "window.newWindowDimensions": "maximized",
+  "workbench.colorTheme": "SynthWave '84",
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "update.enableWindowsBackgroundUpdates": false,
+  "update.mode": "manual",
+  "update.showReleaseNotes": false,
+  "editor.rulers": [
+    {
+      "column": 80
+    }
+  ],
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "eslint.run": "onType",
+  "eslint.format.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}
